@@ -1,0 +1,6 @@
+/FinalProject/.idea
+/FinalProject/cmake-build-debug
+*.idea
+*build*
+/NewOne/CMakeCache.txt
+/NewOne/CMakeFiles

@@ -1,0 +1,11 @@
+/home/student/labs/project/CMakeFiles/rebuild_cache.dir
+/home/student/labs/project/CMakeFiles/edit_cache.dir
+/home/student/labs/project/CMakeFiles/test.dir
+/home/student/labs/project/program/CMakeFiles/rebuild_cache.dir
+/home/student/labs/project/program/CMakeFiles/edit_cache.dir
+/home/student/labs/project/program/CMakeFiles/test.dir
+/home/student/labs/project/program/CMakeFiles/Program.dir
+/home/student/labs/project/library/CMakeFiles/rebuild_cache.dir
+/home/student/labs/project/library/CMakeFiles/edit_cache.dir
+/home/student/labs/project/library/CMakeFiles/test.dir
+/home/student/labs/project/library/CMakeFiles/Library.dir
